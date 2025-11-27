@@ -3,11 +3,11 @@
 Complete Node.js/TypeScript backend for secure Web3 wallet authentication and token vault management.
 
 ## Features
-- ✅ Wallet Authentication with Signature Verification
-- ✅ ERC-20 Token Allowance Checking
-- ✅ Secure Deposit Transactions
-- ✅ Real-time Blockchain Event Tracking
-- ✅ MongoDB Integration
+-  Wallet Authentication with Signature Verification
+-  ERC-20 Token Allowance Checking
+-  Secure Deposit Transactions
+-  Real-time Blockchain Event Tracking
+-  MongoDB Integration
 
 ## API Endpoints
 - POST `/auth/challenge` - Generate login challenge
